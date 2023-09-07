@@ -5,7 +5,7 @@
 [![Twitch](	https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/morgadera332br)
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateus_ms_/) 
 
-![MorgadoM2 GitHub stats](https://github-readme-stats.vercel.app/api?username=MorgadoM2&show_icons=true&theme=radical)
+![MorgadoM2 GitHub stats](https://github-readme-stats.vercel.app/api?username=MorgadoM2&show_icons=true&theme=algolia)
 
 ## Técnologias em aprendizado
 
@@ -19,3 +19,6 @@
     <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
     
 </div>
+<br> O sucesso é ir de fracasso em fracasso sem perder o entusiasmo.
+
+<br>
