@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Ola!+me+chamo+Mateus+Morgado;Tenho+23+Anos;Pertenço+a+Cidade+de+Santo+André+SP+Brasil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Ola!+me+chamo+Mateus+Morgado;Tenho+23+Anos;Pertenço+a+Cidade+de+Santo+André+SP+Brazil)](https://git.io/typing-svg)
 <div>
 <h2 align="center">📚&ensp; <i>SOBRE &nbsp; MIM </i> &ensp;📚</h2>
 
@@ -21,11 +21,8 @@
 ![MorgadoM2 GitHub stats](https://github-readme-stats.vercel.app/api?username=MorgadoM2&show_icons=true&theme=algolia)
 
 
+ ## Técnologias em aprendizado 
 
-  <table>
-    <th>
-      <p align="center">
-        <p align="center">💻&ensp;lINGUAGENS&ensp;💻</p>
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -35,16 +32,20 @@
     <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
+    
+</div>
 
- <br> <p align="center">🔧&ensp; FERRAMENTAS &ensp;🔧</p>
+  ## Ferramentas
+
 <div style="display: inline_block"><br/>
-    <img align="center" alt="VS" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=whitewhite" />
+    <img align="center" alt="VS" src="	https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
     <img align="center" alt="VSCODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
    <img align="center" alt="ECLIPSE" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
    <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> 
-   <img align="center" alt="GIT" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
-   
+   <img align="center" alt="GIT" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />  
+      </p>
+    </th>
+    <th>
 </div>
 
-
-<br> <i> O sucesso é ir de fracasso em fracasso sem perder o entusiasmo.</i>
+<br> <i>O sucesso é ir de fracasso em fracasso sem perder o entusiasmo.
