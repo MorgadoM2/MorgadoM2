@@ -1,5 +1,5 @@
 
-### Olá! Me chamo Mateus de Morgado 🖐️
+## Olá! Me chamo Mateus de Morgado 🖐️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-m-silva-b5943b1a3/) 
 [![Twitch](	https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/morgadera332br)
