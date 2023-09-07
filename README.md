@@ -36,8 +36,7 @@
     <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
     <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
 
-<br>
- <p align="center">🔧&ensp; FERRAMENTAS &ensp;🔧</p>
+ <br> <p align="center">🔧&ensp; FERRAMENTAS &ensp;🔧</p>
 <div style="display: inline_block"><br/>
     <img align="center" alt="VS" src="	https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
     <img align="center" alt="VSCODE" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
@@ -49,4 +48,3 @@
 
 
 <br> <i> O sucesso é ir de fracasso em fracasso sem perder o entusiasmo.</i>
-
