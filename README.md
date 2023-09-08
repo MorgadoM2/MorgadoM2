@@ -13,6 +13,7 @@
 
 - 📫 Meu e-mail profissional **mateus_morgadosilva2@hotmail.com**.
 
+
 <br>[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-m-silva-b5943b1a3/) 
 [![Twitch](	https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/morgadera332br)
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateus_ms_/) 
@@ -20,7 +21,9 @@
 ![MorgadoM2 GitHub stats](https://github-readme-stats.vercel.app/api?username=MorgadoM2&show_icons=true&theme=algolia)
 
 <div style="display: inline_block; text-align: center;"><br/>
+
   ## 🖨️ Técnologias em aprendizado 🖨️
+
 </div>
 
 <div style="display: inline_block"><br/>
@@ -35,7 +38,9 @@
 </div>
 
 <div style="display: inline_block; text-align: center;"><br/>
+
   ## 🔧 Ferramentas 🔧
+
 </div>
 
 <div style="display: inline_block"><br/>
