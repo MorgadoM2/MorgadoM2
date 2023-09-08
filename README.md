@@ -20,9 +20,7 @@
 ![MorgadoM2 GitHub stats](https://github-readme-stats.vercel.app/api?username=MorgadoM2&show_icons=true&theme=algolia)
 
 <div style="display: inline_block; text-align: center;"><br/>
-
   ## 🖨️ Técnologias em aprendizado 🖨️
-
 </div>
 
 <div style="display: inline_block"><br/>
@@ -37,9 +35,7 @@
 </div>
 
 <div style="display: inline_block; text-align: center;"><br/>
-
   ## 🔧 Ferramentas 🔧
-
 </div>
 
 <div style="display: inline_block"><br/>
