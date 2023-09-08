@@ -53,3 +53,5 @@
 </div>
 
 <br> <i>O sucesso é ir de fracasso em fracasso sem perder o entusiasmo.
+
+![snake animation](https://github.com/MorgadoM2/MorgadoM2/blob/output/github-contribution-grid-snake.svg)
