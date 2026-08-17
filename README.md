@@ -3,15 +3,15 @@
 
 <h2 align="center">📚&ensp; <i>SOBRE &nbsp; MIM </i> &ensp;📚</h2>
 
-- 🎓 Faço Faculdade de Análise e Desenvolvimento de Sistemas no centro Universitário Fundação Santo André, atualmente estou no meu terceiro semestre;
+- 🎓 Sou formado em Análise e Desenvolvimento de Sistemas pelo centro Universitário Fundação Santo André
 
-- 👨‍💻 Estou em fase de aprendizado para me tornar um futuro profissional na área de Tecnologia;
+- 👨‍💻 Estou em fase de aprendizado para me tornar profissional melhor na área de Tecnologia;
 
- - 🧐 Tenho interesse em me tornar um analista, porém ainda em busca da minha especialização;
+ - 🧐 Trabalho a mais de 4 anos como Analista de Suporte Técnico - Help Desk
 
 - 😎 Gosto de jogos 🧙, esportes 🥋 e livros 📖 sobre estratégias de progresso pessoais, medos e adversidades para alcançar o sucesso e felicidade.
 
-- 📫 Meu e-mail profissional **mateus_morgadosilva2@hotmail.com**.
+- 📫 Meu e-mail profissional **mateusmorgado332@gmail.com**.
 
 
 <br>[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-m-silva-b5943b1a3/) 
