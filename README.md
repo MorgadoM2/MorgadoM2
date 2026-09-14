@@ -3,15 +3,15 @@
 
 <h2 align="center">📚&ensp; <i>SOBRE &nbsp; MIM </i> &ensp;📚</h2>
 
-- 🎓 Sou formado em Análise e Desenvolvimento de Sistemas pelo centro Universitário Fundação Santo André
+- Formado em Análise e Desenvolvimento de Sistemas pelo centro Universitário Fundação Santo André
 
-- 👨‍💻 Estou em fase de aprendizado para me tornar profissional melhor na área de Tecnologia;
+- Em fase de aprendizado para me tornar profissional melhor na área de Tecnologia;
 
- - 🧐 Trabalho a mais de 4 anos como Analista de Suporte Técnico - Help Desk
+- No mercado a mais de 4 anos como Analista de Suporte Técnico - Help Desk
 
-- 😎 Gosto de jogos 🧙, esportes 🥋 e livros 📖 sobre estratégias de progresso pessoais, medos e adversidades para alcançar o sucesso e felicidade.
+- Gosto de jogos, esportes e livros sobre estratégias de progresso pessoais, medos e adversidades para alcançar o sucesso e felicidade.
 
-- 📫 Meu e-mail profissional **mateusmorgado332@gmail.com**.
+- E-mail profissional **mateusmorgado332@gmail.com**.
 
 
 <br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-morgado-b5943b1a3/)
